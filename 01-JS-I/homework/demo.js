@@ -26,9 +26,23 @@ var licencia = false;
 
 var cadena = 'McDonald\'s';
 
-var hola;
+var hola; //undefined
+
+//camelCase
+
+var miCorreoElectronico;
+
+var holaMundo = 23;
 
 var vasoDeAgua;
 
+var nombre = null;
+
+nombre = "Carlos"
+
 console.log("hola como estas")
 
+
+// 3 === 3 // true
+
+// !(3 === 4) true
